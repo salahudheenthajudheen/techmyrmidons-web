@@ -1,6 +1,11 @@
 {
   "2025": [
     {
+      "title": "Announcing the Swift SDK for Android",
+      "description": "Apple’s Swift team announced **nightly preview builds of the Swift SDK for Android**, allowing developers to build Android apps using Swift. The SDK works on Windows, macOS, and Linux, supports many existing Swift packages, and is still in its experimental stage.",
+      "url": "https://www.swift.org/blog/nightly-swift-sdk-for-android/"
+    },
+    {
       "title": "Android Studio Koala",
       "description": "Android Studio Koala is the latest IDE version in 2025, focusing on improved performance, Kotlin Multiplatform support, and integrated AI assistance via Gemini in Android Studio. It introduces an upgraded Compose UI preview, live editing, and enhanced emulator tools.",
       "url": "https://android-developers.googleblog.com/2024/12/android-studio-koala.html"
