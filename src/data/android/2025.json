@@ -2,7 +2,7 @@
   "2025": [
     {
       "title": "Announcing the Swift SDK for Android",
-      "description": "Apple’s Swift team announced **nightly preview builds of the Swift SDK for Android**, allowing developers to build Android apps using Swift. The SDK works on Windows, macOS, and Linux, supports many existing Swift packages, and is still in its experimental stage.",
+      "description": "Apple’s Swift team announced nightly preview builds of the Swift SDK for Android, allowing developers to build Android apps using Swift. The SDK works on Windows, macOS, and Linux, supports many existing Swift packages, and is still in its experimental stage.",
       "url": "https://www.swift.org/blog/nightly-swift-sdk-for-android/"
     },
     {
